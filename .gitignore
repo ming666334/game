@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.dll
+*.so
+*.map
+*.pdb
+build/
+bin/
+
+# Generated make dependency files
+*.d
